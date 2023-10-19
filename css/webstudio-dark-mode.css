@@ -1,0 +1,146 @@
+/**************************************************
+********** Web-site: WebStudio
+********** Section: All
+********** Company: -
+********** Team: None
+********** Date: 2023.08.-
+********** Files: HTML, CSS, JS., SVG, Images
+********** Author: Valentin Cristian Calota
+********** Comment: Not sure what I'm doing yet!
+********** Social media: Ig - @cristianvalentinx
+********** E-mail: valentin.cristian_98@icloud.com
+**************************************************/
+body {
+  background-color: #000000dd;
+}
+header {
+  background-color: #222222dd;
+}
+header span.logo-black {
+  color: #fff;
+}
+header nav.navigation-menu a {
+  color: #fff;
+}
+header ul.header-contact a {
+  color: #fff;
+}
+header button.dark-mode {
+  border: none;
+}
+header button.dark-mode:hover {
+  border: none;
+}
+header svg.dark-mode {
+  color: #fff;
+}
+header ul.header-contact svg {
+  color: #fff;
+}
+header svg.mobile-menu {
+  color: #fff;
+}
+div.mobile-menu-container {
+  background-color: #222;
+}
+div button.mobile-close-menu {
+  border: 1px solid #ffffff1a;
+}
+div.mobile-menu-container button.mobile-close-menu:hover {
+  border: 1px solid #fff;
+}
+div.mobile-menu-container svg {
+  color: #fff;
+}
+div.mobile-menu-container a {
+  color: #fff;
+}
+div.mobile-menu-container address a {
+  color: #fff;
+}
+div.mobile-menu-container button.mobile-dark-mode svg {
+  color: #fff;
+}
+div.mobile-menu-container span.mobile-dark-mode {
+  color: #fff;
+}
+div.mobile-menu-container ul.social-media a {
+  color: #fff;
+}
+div.mobile-menu-container ul.social-media a.vertical-line::after,
+div.mobile-menu-container ul.social-media a.second-vertical-line::after,
+div.mobile-menu-container ul.social-media a.third-vertical-line::after {
+  background: #fff;
+}
+div.formular-container {
+  background-color: #222222ee;
+  box-shadow: 0px 2px 1px 0px #ffffff33, 0px 1px 1px 0px #ffffff24,
+    0px 1px 3px 0px #ffffff1f;
+}
+div.formular-container button.modal-close-button {
+  border: 1px solid #ffffff1a;
+}
+div.formular-container button.modal-close-button:hover {
+  border: 1px solid #fff;
+}
+div.formular-container svg.close-button {
+  color: #ffffff1a;
+}
+div.formular-container h2.formular-title {
+  color: #fff;
+}
+div.formular-container label.formular {
+  color: #fff;
+}
+div.formular-container input.formular {
+  border: 1px solid #ffffff33;
+}
+div.formular-container svg.formular {
+  color: #fff;
+}
+div.formular-container textarea.comment {
+  border: 1px solid #ffffff33;
+  scrollbar-color: var(--active-color);
+}
+div.formular-container textarea.comment::placeholder {
+  color: #ffffff80;
+}
+div.formular-container span.formular-tnc {
+  color: #fff;
+}
+section.benefits div.svg {
+  background: #c9c9c9;
+}
+section.benefits h3 {
+  color: #fff;
+}
+section.benefits p {
+  color: #fff;
+}
+h2 {
+  color: #fff;
+}
+section.team {
+  background: #c9c9c9;
+}
+section.team li.teammates-card {
+  background-color: #000000dd;
+  box-shadow: 0px 2px 1px 0px rgba(255, 255, 255, 0.2),
+    0px 1px 1px 0px rgba(255, 255, 255, 0.141),
+    0px 1px 3px 0px rgba(255, 255, 255, 0.122);
+}
+section.team strong {
+  color: #fff;
+}
+section.team span {
+  color: #ffffff99;
+}
+section.team svg {
+  color: #ffffff99;
+}
+section.customers li {
+  border: 1px solid #ffffff99;
+}
+section.customers svg {
+  color: #ffffff99;
+}
